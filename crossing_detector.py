@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Quad (2x2) Crossing Detector Module
 Detects 2x2 arranged crossings in Nether Fortress

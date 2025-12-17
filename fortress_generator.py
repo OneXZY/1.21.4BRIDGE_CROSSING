@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Nether Fortress Structure Generation Simulation Module
 Based on Minecraft 1.21.4 NetherFortressPieces algorithm

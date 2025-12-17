@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Nether Fortress Location Calculator Module
 Based on Minecraft 1.21.4 RandomSpreadStructurePlacement algorithm

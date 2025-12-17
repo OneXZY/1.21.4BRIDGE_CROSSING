@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Minecraft LegacyRandomSource Random Number Generator Python Implementation
 Based on Java's Linear Congruential Generator (LCG) algorithm

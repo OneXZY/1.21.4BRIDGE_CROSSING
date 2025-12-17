@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Minecraft 1.21.4 Nether Fortress Quad (2x2) Crossing Finder
 The authors are Claude and Onemeng123
