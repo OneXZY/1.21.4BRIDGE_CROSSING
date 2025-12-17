@@ -22,7 +22,7 @@ from fortress_generator import FortressGenerator, StructurePiece, PieceType
 from crossing_detector import CrossingDetector, QuadCrossing, analyze_fortress_crossings
 
 
-def find_quad_crossings_for_seed(world_seed: int, search_range: int = 1000,
+def find_quad_crossings_for_seed(world_seed: int, search_range: int = 5000,
                                  center_x: int = 0, center_z: int = 0,
                                  verbose: bool = False) -> List[dict]:
     """
